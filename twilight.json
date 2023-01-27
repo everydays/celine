@@ -1,10 +1,10 @@
 {
     "name": {
-        "ar": "رائد",
-        "en": "Theme Raed"
+        "ar": "سلين",
+        "en": "Celine"
     },
-    "repository": "https://github.com/SallaApp/theme-raed",
-    "author_email": "support@salla.dev",
+    "repository": "https://github.com/everydays/celine",
+    "author_email": "tahamma@hotmail.com",
     "features": [
         "mega-menu",
         "fonts",
@@ -680,9 +680,9 @@
             ]
         }
     ],
-    "support_url": "https://salla.dev",
+    "support_url": null,
     "description": {
-        "ar": "مجموعة كبيرة من المزايا لدعم تجارتك وتقديم تجربة تسوق مثيرة لعملائك",
-        "en": "A wide range of features to support your business and provide an exciting shopping experience for your customers"
+        "ar": null,
+        "en": null
     }
 }
